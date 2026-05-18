@@ -1,0 +1,292 @@
+Non-Terrestrial Networks
+NTN
+5G NTN
+NR-NTN
+6G NTN
+NTN-IoT
+NB-IoT over NTN
+satellite-terrestrial integrated networks
+integrated terrestrial and non-terrestrial networks
+space-air-ground integrated network
+SAGIN
+LEO satellite networks
+MEO satellite networks
+GEO satellite networks
+direct-to-device satellite
+D2D satellite
+direct-to-cell satellite
+satellite access network
+satellite RAN
+spaceborne RAN
+multi-layer satellite networks
+inter-satellite links
+ISL routing
+beam hopping
+Doppler compensation
+long propagation delay
+delay-aware scheduling
+NTN random access
+NTN beam management
+NTN mobility management
+LEO handover
+satellite-terrestrial handover
+multi-connectivity in NTN
+edge computing in NTN
+federated learning for NTN
+digital twin for NTN
+O-RAN
+Open RAN
+open radio access network
+disaggregated RAN
+software-defined RAN
+programmable RAN
+RAN Intelligent Controller
+RIC
+Near-RT RIC
+non-RT RIC
+xApp
+rApp
+Service Management and Orchestration
+SMO
+O-Cloud
+O-CU
+O-DU
+O-RU
+Open Fronthaul
+E2 interface
+A1 interface
+O1 interface
+O2 interface
+E2 service model
+E2SM-KPM
+E2SM-RC
+E2SM-NI
+KPM report
+RAN control loop
+closed-loop RAN control
+intent-based networking
+RAN slicing
+RAN orchestration
+RAN automation
+self-organizing networks
+SON
+zero-touch network
+ZSM
+5G NR
+5G-Advanced
+5G-A
+NR-Advanced
+3GPP Release 17
+3GPP Release 18
+3GPP Release 19
+3GPP Release 20
+RedCap
+reduced capability
+eRedCap
+URLLC
+eMBB
+mMTC
+XR over 5G
+private 5G
+campus network
+network slicing
+QoS management
+QoE management
+6G
+IMT-2030
+NextG
+AI-native 6G
+native AI in 6G
+6G radio access network
+6G air interface
+6G architecture
+6G standardization
+6G requirements
+Radio Access Network
+RAN
+NG-RAN
+Cloud RAN
+C-RAN
+virtualized RAN
+vRAN
+radio resource management
+RRM
+admission control
+load balancing
+interference management
+power control
+energy-efficient RAN
+coverage enhancement
+cell selection
+cell reselection
+dual connectivity
+multi-connectivity
+carrier aggregation
+handover optimization
+beam failure recovery
+NR air interface
+radio interface
+physical layer
+PHY
+MAC layer
+RLC
+PDCP
+SDAP
+RRC
+scheduling
+link adaptation
+HARQ
+random access
+initial access
+channel estimation
+channel state information
+CSI
+CSI feedback
+reference signal
+synchronization signal block
+SSB
+PDCCH
+PDSCH
+PUCCH
+PUSCH
+PRACH
+massive MIMO
+cell-free massive MIMO
+XL-MIMO
+extremely large-scale MIMO
+distributed MIMO
+holographic MIMO
+beamforming
+beam management
+mmWave
+sub-THz
+THz communications
+spectrum sharing
+dynamic spectrum sharing
+full duplex
+NOMA
+grant-free access
+random access optimization
+reconfigurable intelligent surface
+RIS
+intelligent reflecting surface
+IRS
+integrated sensing and communication
+ISAC
+joint communication and sensing
+JC&S
+semantic communications
+goal-oriented communications
+over-the-air computation
+AirComp
+AI-native air interface
+AI for PHY
+deep learning for channel estimation
+wireless foundation model
+O-RAN security
+Open RAN security
+RIC security
+xApp security
+rApp security
+E2 interface security
+Open Fronthaul security
+RAN slicing security
+zero trust O-RAN
+adversarial machine learning in O-RAN
+poisoning attack RAN
+evasion attack RAN
+Byzantine xApp
+malicious xApp
+NTN security
+satellite network security
+satellite-terrestrial security
+jamming detection NTN
+spoofing detection NTN
+GNSS spoofing
+beam spoofing
+pilot spoofing
+authentication in NTN
+handover authentication
+physical layer security
+intrusion detection in O-RAN
+intrusion detection in satellite networks
+supply chain security Open RAN
+large language models
+LLM
+foundation models
+generative AI
+LLM for wireless networks
+LLM for 6G
+LLM for O-RAN
+LLM for RAN
+LLM-enabled RAN automation
+LLM-based network management
+LLM agents for network operations
+AI agents for RAN control
+foundation model for RAN
+foundation models for wireless networks
+telecom foundation model
+network foundation model
+wireless foundation model
+intent-based networking LLM
+network troubleshooting with LLMs
+root cause analysis with LLMs
+network anomaly detection with LLMs
+AIOps for telecom networks
+network digital twin LLM
+tool-using LLM agents
+RAG for network management
+retrieval augmented generation for telecom
+large language model
+language model alignment
+instruction tuning
+preference optimization
+RLHF
+RLAIF
+direct preference optimization
+DPO
+LLM agents
+multi-agent LLM
+tool use
+function calling
+retrieval augmented generation
+RAG
+long-context LLM
+efficient inference
+LLM compression
+quantization
+distillation
+mixture of experts
+MoE
+multimodal LLM
+vision language model
+VLM
+reasoning models
+agentic AI
+evaluation of LLMs
+LLM safety
+LLM security
+prompt injection
+data poisoning
+model stealing
+privacy leakage
+OpenAirInterface
+OAI 5G
+srsRAN
+Open5GS
+free5GC
+UERANSIM
+O-RAN SC
+O-RAN Software Community
+RIC testbed
+Colosseum testbed
+Powder testbed
+COSMOS testbed
+Kubernetes RAN
+edge cloud RAN
+digital twin RAN
+network simulator
+ns-3 NTN
+satellite network simulator
+LEO constellation simulation
+emulation testbed
